@@ -139,4 +139,4 @@ Es una base sólida que puede escalarse fácilmente hacia frameworks más avanza
 
 ---
 
-✍️ Desarrollado por **Elion C.**
+✍️ Desarrollado por **Jose Maria Garcia**
